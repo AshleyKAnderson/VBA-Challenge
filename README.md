@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-_This is the second challenge project for the University of Minnesota Data Analytics and Visualization Bootcamp. I used tutors available from BCS to assist me in areas of my script. Assistants are: kpin, tsentle, brandonwong, umunyurangabi, and most of all Kat-P. _
+_This is the second challenge project for the University of Minnesota Data Analytics and Visualization Bootcamp. I used tutors available from BCS to assist me in areas of my script. Assistants are: kpin, tsentle, brandonwong, umunyurangabi, and most of all Kat-P._
 
 # Instructions
 Create a script that loops through all the stocks for one year and outputs the following information:
